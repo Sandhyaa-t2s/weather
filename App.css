@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+.textbox {
+  position: absolute;
+  top: 28px;
+  left:800px;
+  border-radius: 4px;
+  border: none; 
+  font-size: 20px;
+  padding: 5px;
+  width: 200px;
+  margin: 5px;
+  color: #121810;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+   height: 25px;
+   position: absolute;
+   top: 35px;
+   left:1.5%;
+}
+.App-header {
+  overflow: hidden;
+  background-color: lightgrey;
+  height: 100px;
+  padding: 5px;
+  color: white;
+}
+.box{
+    align:center;
+    background-color: lightgrey;
+    width: 300px;
+    color: #121810;
+    padding: auto;
+    border-radius: 10px;
+    margin: auto;
+}
+.button {
+  border-radius: 4px;
+  background-color: #61bb46;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 20px;
+  padding: 5px;
+  width: 200px;
+  cursor: pointer;
+  margin: 5px;
+  position: absolute;
+  top: 28px;
+  left:1050px;
+}
